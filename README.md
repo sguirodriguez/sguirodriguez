@@ -21,4 +21,5 @@ Também desenvolver novas habilidades e me tornar um Dev. Fullstack.
   - CSS
   - JavaScript
   - React
-  - React-native
+  - Next
+  - React native
