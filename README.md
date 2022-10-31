@@ -12,7 +12,7 @@ Olá, bem-vindo(a)!
 ```
 Sou estudante de Engenharia da Computaçao na Uniso.
 Amo tecnologia e aprender sempre mais sobre, hoje busco aperfeiçoar habilidades em programação.
-Também desenvolver novas habilidades e me tornar um Dev. Fullstack.
+Também desenvolver novas habilidades e aperfeiçoar as adquiridas.
 ```
 
 ## Tecnologias que possuo conhecimento 💻
