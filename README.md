@@ -11,8 +11,8 @@ Olá, bem-vindo(a)!
 
 ```
 Sou estudante de Engenharia da Computaçao na Uniso.
-Amo tecnologia e aprender sempre mais sobre, hoje busco aperfeiçoar habilidades em programação.
-Também desenvolver novas habilidades e aperfeiçoar as adquiridas.
+Amo tecnologia e aprender mais sobre, hoje busco não só aperfeiçoar habilidades em programação,
+mas também desenvolver novas habilidades.
 ```
 
 ## Tecnologias que possuo conhecimento 💻
@@ -23,3 +23,4 @@ Também desenvolver novas habilidades e aperfeiçoar as adquiridas.
   - React
   - Next
   - React native
+  - Nodejs
