@@ -8,7 +8,6 @@ Olá, bem-vindo(a)!
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-rodrigues-49545316a/)](https://www.linkedin.com/in/samuel-rodrigues-49545316a/)
 
 ```
-Sou estudante de Engenharia da Computaçao na Uniso.
 Amo tecnologia e aprender mais sobre, hoje busco não só aperfeiçoar habilidades em programação,
 mas também desenvolver novas habilidades.
 ```
