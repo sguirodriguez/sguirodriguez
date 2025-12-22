@@ -11,12 +11,3 @@ Olá, bem-vindo(a)!
 Fullstack Developer
 ```
 
-## Tecnologias que possuo conhecimento 💻
-
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Next
-  - React native
-  - Nodejs
