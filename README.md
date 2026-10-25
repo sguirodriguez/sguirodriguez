@@ -1,24 +1,22 @@
 <div align="left">
 
-# Back end engineer
-
-Focado em sistemas financeiros: pagamentos, integrações e arquitetura orientada a eventos, com IA como parte do meu fluxo de engenharia.
+# Samuel Rodrigues | Backend Engineer
+Focused on financial systems: payments, integrations, and event-driven architecture, with AI as part of my engineering workflow.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigues-49545316a/)
 
----
+### 🧠 Experience
 
-### 🔧 Experiência em
+- **Payments & integrations:** financial API gateway with PIX, boleto (Brazilian bank slips), individual/business onboarding, and card issuing
+- **Reliable webhooks:** HMAC-SHA256 signatures, idempotency, retries, dead letter queues, and event reprocessing
+- **Event-driven architecture:** Redis/BullMQ queues and a multichannel notification system (email, push, and SMS)
+- **Security:** OAuth2, JWT/RS256 with JWKS, and cached multi-tenant RBAC
+- **Performance:** N+1 elimination, indexing, and MySQL/MariaDB query optimization
+- **Quality & testing:** unit, integration, and e2e tests, TDD, and automated API testing
+- **Infrastructure:** Docker, Kubernetes, Terraform, and AWS with GitHub Actions
+- **Real-time:** multiplayer servers with Colyseus on Node.js
+- **Applied AI:** coding agents, cloud agents, custom skills, prompt engineering, and LLM API integrations (Claude, GPT, Gemini, and Grok)
 
-- **Pagamentos e integrações:** API gateway financeira com PIX, boleto, cadastro PF/PJ e emissão de cartões
-- **Webhooks confiáveis:** assinatura HMAC-SHA256, idempotência, retry, dead letter queue e reprocessamento de eventos
-- **Arquitetura event-driven:** filas com Redis/BullMQ e um sistema de notificações multicanal (e-mail, push e SMS)
-- **Segurança:** OAuth2, JWT/RS256 com JWKS e RBAC multi-tenant com cache
-- **Performance:** eliminação de N+1, índices e otimização de queries em MySQL/MariaDB
-- **Qualidade e testes:** testes unitários, de integração e e2e, TDD e testes automatizados de API
-- **Infraestrutura:** Docker, Kubernetes, Terraform e AWS com GitHub Actions
-- **Tempo real:** servidores multiplayer com Colyseus sobre Node.js
-- **IA aplicada:** agentes de código, cloud agents, skills customizadas, prompt engineering e integração com APIs de LLM (Claude, GPT, Gemini e Grok)
 ### 🧰 Stack
  
 <table>
